@@ -45,10 +45,6 @@ a {
 	color: #CC2C10;
 }
 
-#socialmedia {
-	display: block;
-
-}
 .social {
 	transition: all 0.5s ease;
 }
@@ -71,10 +67,11 @@ a {
 }
 
 #socialmedia {
-	padding: 1rem;
+	display: block;
+	width: 600px;
 	word-spacing: 0.5rem;
 	height: 2rem;
-	margin: 1rem;
+	margin: 0 auto;
 	animation-delay: 0.7s;
 }
 
